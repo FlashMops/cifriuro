@@ -3,25 +3,6 @@
     {
       "namePos": { "x": 460, "y": 700 },
       "codePos": { "x": 418, "y": 1220 },
-      "name": "Технологии современного программирования",
-      "direct_links": [
-        "https://урокцифры.рф/uploads/certificates/b1349e04bba26af6ef29f6df54555b34.jpg",
-        "https://урокцифры.рф/uploads/certificates/c89c203c188d1bf3d13d59b767026d1c.jpg",
-        "https://урокцифры.рф/uploads/certificates/66bc2b5195ddfe2133857aa4e34144d1.jpg"
-      ]
-    },
-    {
-      "namePos": { "x": 460, "y": 700 },
-      "codePos": { "x": 418, "y": 1220 },
-      "name": "Квантовые вычисления и материалы будущего",
-      "direct_links": [
-        "https://урокцифры.рф/uploads/certificates/044b097eff154f59be0449b34fed2ff7.jpg",
-        "https://урокцифры.рф/uploads/certificates/955a384fe68aa5cace6a093a431996b4.jpg"
-      ]
-    },
-    {
-      "namePos": { "x": 460, "y": 700 },
-      "codePos": { "x": 418, "y": 1220 },
       "name": "Дело в чате: эволюция нейросетей и цифровая безопасность",
       "direct_links": [
         "https://урокцифры.рф/uploads/certificates/c3ff9832172a9cf18015205fe4071719.jpg",
@@ -38,4 +19,5 @@
     }
   ]
 }
+
 
