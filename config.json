@@ -26,8 +26,8 @@
       ]
     },
     {
-      "namePos": { "x": 460, "y": 700 },
-      "codePos": { "x": 418, "y": 1220 },
+      "namePos": { "x": 449, "y": 683 },
+      "codePos": { "x": 408, "y": 1190 },
       "name": "Как кодить на квантах",
       "direct_links": [
         "https://raw.githubusercontent.com/FlashMops/cifriuro/refs/heads/main/certs/quantumcoding.jpeg"
