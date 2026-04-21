@@ -24,6 +24,14 @@
       "direct_links": [
         "https://datalesson.ru/uploads/certificates/24edb49e4bde395353746c79468fd8dc.jpg"
       ]
+    },
+    {
+      "namePos": { "x": 460, "y": 700 },
+      "codePos": { "x": 418, "y": 1220 },
+      "name": "Как кодить на квантах",
+      "direct_links": [
+        "https://raw.githubusercontent.com/FlashMops/cifriuro/refs/heads/main/certs/quantumcoding.jpeg"
+      ]
     }
   ]
 }
